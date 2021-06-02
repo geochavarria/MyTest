@@ -1,0 +1,14 @@
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Domain.dll
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Infraestructure.deps.json
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Infraestructure.dll
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Infraestructure.pdb
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Domain.pdb
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.csproj.CopyComplete
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.dll
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\obj\Debug\netcoreapp3.1\MyTest.Infraestructure.pdb
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Application.dll
+C:\Users\Usuario\Source\repos\MyTest\MyTest.Infraestructure\bin\Debug\netcoreapp3.1\MyTest.Application.pdb
